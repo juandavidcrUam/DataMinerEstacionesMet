@@ -1,0 +1,14 @@
+UPDATE `climatologia_diaria`.`Municipio` SET `nombre_mun` = 'CHICONTEPEC' WHERE (`id_municipio` = '1');
+UPDATE `climatologia_diaria`.`Municipio` SET `nombre_mun` = 'SAN ANDRES TUXTLA' WHERE (`id_municipio` = '3');
+UPDATE `climatologia_diaria`.`Municipio` SET `nombre_mun` = 'TEZONAPA ' WHERE (`id_municipio` = '7');
+UPDATE `climatologia_diaria`.`Municipio` SET `nombre_mun` = 'SAN ANDRES TUXTLA 2' WHERE (`id_municipio` = '4');
+UPDATE `climatologia_diaria`.`Municipio` SET `nombre_mun` = 'PAPANTLA' WHERE (`id_municipio` = '9');
+UPDATE `climatologia_diaria`.`Municipio` SET `nombre_mun` = 'SANTIAGO TUXTLA ' WHERE (`id_municipio` = '5');
+UPDATE `climatologia_diaria`.`Municipio` SET `nombre_mun` = 'TEZONAPA 2' WHERE (`id_municipio` = '8');
+UPDATE `climatologia_diaria`.`Municipio` SET `nombre_mun` = 'SANTIAGO TUXTLA 2' WHERE (`id_municipio` = '6');
+UPDATE `climatologia_diaria`.`Municipio` SET `nombre_mun` = 'COATEPEC' WHERE (`id_municipio` = '10');
+UPDATE `climatologia_diaria`.`Municipio` SET `nombre_mun` = 'ATZALAN' WHERE (`id_municipio` = '11');
+UPDATE `climatologia_diaria`.`Municipio` SET `nombre_mun` = 'MISANTLA' WHERE (`id_municipio` = '12');
+UPDATE `climatologia_diaria`.`Municipio` SET `nombre_mun` = 'ZONGOLICA' WHERE (`id_municipio` = '13');
+UPDATE `climatologia_diaria`.`Municipio` SET `nombre_mun` = 'CORDOBA' WHERE (`id_municipio` = '14');
+UPDATE `climatologia_diaria`.`Municipio` SET `nombre_mun` = 'HUATUSCO' WHERE (`id_municipio` = '15');
